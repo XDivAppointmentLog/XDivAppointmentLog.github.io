@@ -6,9 +6,9 @@ var password = document.getElementById("password").value;
 if ( username == "admin" && password == "asian123"){
   alert("login successful")
   location.replace("appointment.html")
-
-// copy from here
 }
+  
+  // copy from here
 else if ( username == "admin1" && password == "asian1234"){
   alert("login successful")
   location.replace("appointment.html")
