@@ -16,7 +16,10 @@ else if ( username == "admin1" && password == "asian1234"){
 // to here
 
 // then paste it below this line
-
+else if ( username == "LingerfeltT" && password == "1234"){
+  alert("login successful")
+  location.replace("appointment.html")
+}
 else{
 attempt --;// Decrementing by one.
 alert("You have left "+attempt+" attempt;");
