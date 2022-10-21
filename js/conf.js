@@ -9,7 +9,7 @@ if ( username == "admin" && password == "asian123"){
 }
   
   // copy from here
-else if ( username == "admin1" && password == "asian1234"){
+else if ( username == "VoT" && password == "9129"){
   alert("login successful")
   location.replace("appointment.html")
 }
